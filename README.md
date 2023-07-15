@@ -1,2 +1,4 @@
-# hotstar-clone-partial
-Created a hotstar clone (not completed yet) using HTML and CSS
+# hotstar
+Images-and videos
+Star to repo is appreciated.
+This repo only contain images and videos. 
